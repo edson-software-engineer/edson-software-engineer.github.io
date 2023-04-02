@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Guavoo Blog
-email: edson@guavoo.com
+title: Edson Philippe
+email: edson.the.software.engineer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  If you are interested in the behind the scene on how we take a script from word to image, this page is for you. In it we will have post that 
-  goes in details about pre-production, production and post production of our project. Sit tight and relax...
+  This is a technical blog that is used to support my Youtube channel. I usually write a blog post and then would make a video to support the blog post.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://blog.guavoo.com" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: film_producer_edson
+#url: "https://blog.guavoo.com" # the base hostname & protocol for your site, e.g. http://example.com
+#instagram_username: film_producer_edson
 
 # Build settings
 theme: minima
