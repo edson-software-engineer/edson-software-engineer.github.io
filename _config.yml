@@ -50,7 +50,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-google_analytics: G-RH30EPKQ4Q
+#google_analytics: G-RH30EPKQ4Q
 lsi: false
 safe: true
 source: https://github.com/edsonhor/edsonhor.github.io
