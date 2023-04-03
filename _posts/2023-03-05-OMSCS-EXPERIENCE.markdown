@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My experience as I am ending OMSCS"
+title: "My Experience as I am Ending OMSCS"
 date: 2023-03-05 15:35:26 -0600
 categories: jekyll update
 ---
