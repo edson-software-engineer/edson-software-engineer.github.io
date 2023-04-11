@@ -5,6 +5,8 @@ date: 2023-03-05 15:35:26 -0600
 categories: jekyll update
 ---
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Db6o9a16u5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 In this video, I will talk about my experience after being a student in the OMSCS program for about five years. I will end this video by outlining some of the important lessons that I have learned and how the program has impacted my career.
 
 I have to start this video by telling you that getting a master's degree is not the most important thing if you want to advance your career. Many people have advanced far in their tech career without having a master's degree. So if you plan to enroll thinking you will get a promotion, I have to let you know that you might need to re-evaluate your objective. It's hard for me to know why other people have chosen to get their master's degree, but I can explain my reasoning for going through the program.
