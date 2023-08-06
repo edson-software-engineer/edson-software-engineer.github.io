@@ -26,7 +26,7 @@ Edson H Philippe<br>
 * Developed Golang micro-services to add new service to spinnaker (OPENAPI, GIN)
 * Developed custom Spinnaker plugin in Kotlin and React-js to suit Home Depot’s custom deployment need (SPRING-BOOT)
 * Maintained infrastructure as code for spinnaker using Gitops, Jenkins, terraform, Kubernetes, Vault
-* Facilitated the adoption of spinnaker for the enterprise by answering any spinnaker related questions in our
+* Facilitated the adoption of spinnaker for the enterprise by answering any spinnaker related questions in our internal slack channel
 
 
 
