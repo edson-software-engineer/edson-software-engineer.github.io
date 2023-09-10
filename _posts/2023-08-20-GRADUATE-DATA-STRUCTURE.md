@@ -4,6 +4,7 @@ title: "My Experience with Graduate Algoritm"
 date: 2023-08-20 15:35:26 -0600
 categories: jekyll update
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qu_ClBFDSQY?si=clQfY3-mTY56uVKG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Intro
 What's up every body. I am Edson Philippe a software engineer whose mission is to share his experience with you. The topic of today's 
