@@ -33,7 +33,7 @@ Results-driven Senior Software Engineer with a strong background in infrastructu
 
 ### The Home Depot (Sr Software Engineer SRE, 2018 - 2020)
 - Implement cloud infrastructure for voice over IP telephony app in Google Cloud (Python, Linux, Docker, opensips, freeswitch, Dialogflow).
-- Scale telephony app from 3 demo stores to 2000 stores with custom auto-healing and auto-scaling (Python-Flask).
+- Scale telephony app from 3 demo stores to 2000 stores with custom auto-healing and auto-scaling (Python-Flask) *Pending Pattent* .
 - Participate in incident calls, perform postmortems, and conduct root cause analyses.
 - Conduct code reviews for infrastructure as code components.
 - Implemented monitoring, Alerling, and Data Visualization.
