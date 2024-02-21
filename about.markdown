@@ -36,13 +36,26 @@ Results-driven Senior Software Engineer with a strong background in infrastructu
 - Scale telephony app from 3 demo stores to 2000 stores with custom auto-healing and auto-scaling (Python-Flask).
 - Participate in incident calls, perform postmortems, and conduct root cause analyses.
 - Conduct code reviews for infrastructure as code components.
-- Implemented monitoring, Alerling, and Data Visualization
+- Implemented monitoring, Alerling, and Data Visualization.
 - Train new hires in reliability engineering.
 
 ### The Home Depot (Software Engineer, Java, 2016 - 2018) 
 - Design and develop UI components with Extjs, JavaScript, HTML, CSS.
 - Build backend controllers using Spring-MVC framework.
 - Introduce CI/CD and monitoring practices to the team.
+
+### American Express (Software Engineer, C#, 2014 - 2016)
+- Helped building internal dashboard using Graphite that monitored website activity and alerted developers via e-mail when high-priority issues arose.
+- Helped building of event scheduling system for the Serve platform.
+- Developed unit test and functional test using Moq which improved code quality and reduced production bug by 80%.
+- Helped migration from WCF technology to Restfull web services.
+
+### JpMorgan Chase ( Part time Software Apprentice and Summer Intern, 2012 - 2014)
+- Improved file transfer security in one of the Java application by using SFTP protocol instead of FTP protocol.
+- Learned Tomcat, J2EE, Jira, Javascript, CSS, HTML and all web development related tools.
+- Created XSLT that would transform XML document into excel documents and csv so that the regular bank customers can see their financial statements in a more readable manner.
+- Wrote COBOL application that would read data from a file and display the file in a more user friendly way on the terminal.
+- Learned Waterfall methodology.
 
 ### Education & Qualifications
 - Georgia Institute of Technology, M.S Computer Science – Computing Systems (2023)
@@ -58,4 +71,3 @@ Results-driven Senior Software Engineer with a strong background in infrastructu
 ### Continuing education as non degree seeking  
 - Machine learning for trading (summer 2024)
 - Machine learning (Fall 2024)
-
