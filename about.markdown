@@ -55,7 +55,6 @@ Results-driven Senior Software Engineer with a strong background in infrastructu
 - Learned Tomcat, J2EE, Jira, Javascript, CSS, HTML and all web development related tools.
 - Created XSLT that would transform XML document into excel documents and csv so that the regular bank customers can see their financial statements in a more readable manner.
 - Wrote COBOL application that would read data from a file and display the file in a more user friendly way on the terminal.
-- Learned Waterfall methodology.
 
 ### Education & Qualifications
 - Georgia Institute of Technology, M.S Computer Science – Computing Systems (2023)
