@@ -10,10 +10,10 @@ Edson H Philippe<br>
   352-575-4199<br>
 </span>
 
-# Sr/Staff Software Engineer
+# Sr Software Engineer
 
 ## Professional Summary:
-Results-driven Senior Software Engineer with a strong background in infrastructure, DevOps, and reliability engineering. Proven expertise in securing and maintaining robust software systems for leading enterprises. Currently contributing to WPEngine as a Sr Software Engineer in Infrastructure. Seeking MLOPS or Machine Learning entry level role.
+Results-driven Senior Software Engineer with a strong background in infrastructure, DevOps, and reliability engineering. Proven expertise in securing and maintaining robust software systems for leading enterprises. Currently contributing to WPEngine as a Sr Software Engineer in Infrastructure.
 
 ### Working Experience
 
@@ -50,7 +50,7 @@ Results-driven Senior Software Engineer with a strong background in infrastructu
 - Developed unit test and functional test using Moq which improved code quality and reduced production bug by 80%.
 - Helped migration from WCF technology to Restfull web services.
 
-### JpMorgan Chase ( Part time Software Apprentice and Summer Intern, 2012 - 2014)
+### JPMorgan Chase ( Part time Software Apprentice and Summer Intern, 2012 - 2014)
 - Improved file transfer security in one of the Java application by using SFTP protocol instead of FTP protocol.
 - Learned Tomcat, J2EE, Jira, Javascript, CSS, HTML and all web development related tools.
 - Created XSLT that would transform XML document into excel documents and csv so that the regular bank customers can see their financial statements in a more readable manner.
@@ -66,7 +66,3 @@ Results-driven Senior Software Engineer with a strong background in infrastructu
 - Protocol: Oauth2.0, OpenID Connect,SIP/RTP, TCP/IP, gRPC
 - Cloud technologies: GCP, PCF, K8
 - OS: Linux
-
-### Continuing education as non degree seeking  
-- Machine learning for trading (summer 2024)
-- Machine learning (Fall 2024)
